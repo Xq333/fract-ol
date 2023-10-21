@@ -12,11 +12,9 @@ Through the **fract-ol** project, I acquired a wealth of knowledge and skills, i
 
 2. **Real-Time Rendering**: This project introduced me to real-time graphics programming, enabling users to explore and interact with fractals dynamically.
 
-3. **Multithreading**: I gained experience in multithreading to ensure smooth and responsive rendering, utilizing parallel processing for optimal performance.
+3. **User Interface Design**: I developed interactive controls and a graphical user interface to provide users with the means to customize fractal appearance and behavior.
 
-4. **User Interface Design**: I developed interactive controls and a graphical user interface to provide users with the means to customize fractal appearance and behavior.
-
-5. **Color Mapping**: I implemented customizable color mapping to enhance the visual appeal of the displayed fractals.
+4. **Color Mapping**: I implemented customizable color mapping to enhance the visual appeal of the displayed fractals.
 
 ## Project Structure
 
